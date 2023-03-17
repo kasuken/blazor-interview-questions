@@ -12,4 +12,6 @@ Feel free to reach out to me! 💌 <br />
 <a href="https://www.instagram.com/kasuken">Instagram</a> || <a href="https://www.twitter.com/kasuken">Twitter</a> || <a href="https://www.linkedin.com/in/barotlesiemanuele">LinkedIn</a> || <a href="https://www.lydiahallie.dev">Blog</a>
 </div>
 
+<div align="center">
 Contributions are very welcome!
+</div>
